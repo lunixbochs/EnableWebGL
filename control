@@ -1,0 +1,9 @@
+Package: info.bochs.enable-webgl
+Name: Enable WebGL
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Enables WebGL in all WebView(s)
+Maintainer: Ryan Hileman
+Author: Ryan Hileman
+Section: System
+Tag: role::hacker
