@@ -1,5 +1,4 @@
 #import <UIKit/UIKit.h>
-// #import <WebKit/WebView.h>
 
 @interface WebView
 + (void)_setWebGLEnabled:(BOOL)enabled;
